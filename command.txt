@@ -10,4 +10,4 @@ git status
    55  git config --list
    56  git show
 
-
+git clone :- means remote repo to local repo download
