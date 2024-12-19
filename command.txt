@@ -1,0 +1,13 @@
+git status
+   47  git add file1.txt
+   48  git status
+   49  git commit -m "testing a file"
+   50  git status
+   51  git log --oneline
+   52  git show master
+   53  git show
+   54  git config --global user.name "smruti" && git config --global user.email "smruti@99"
+   55  git config --list
+   56  git show
+
+
