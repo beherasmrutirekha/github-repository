@@ -11,3 +11,4 @@ git status
    56  git show
 
 git clone :- means remote repo to local repo download
+again i will write some content for testing on locally
